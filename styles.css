@@ -22,8 +22,8 @@ body {
 }
 
 .logo {
-  max-width: 15px;
-  max-height: 10px;
+  max-width: 5rem;
+  max-height: 3rem;
   display: flex;
   justify-content: center;
   align-items: center;
